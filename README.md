@@ -55,6 +55,19 @@ Some great books here to dive deeper, I highly recommend.
 - [Domain-driven design distilled](https://www.amazon.co.uk/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420/ref=sr_1_1?crid=2SDYQ2HU9FVCT&dib=eyJ2IjoiMSJ9.V38g5Do5w5nrE6OQbkJUMAQKsC9vduDhBo7FGVAo6STbdxHJVhta7MDAGiyQD-T4.PYhJjWlNIU5NOVvawxf8QoYaVjp5FHxm25WjY9jVjLs&dib_tag=se&keywords=ddd+distilled&nsdOptOutParam=true&qid=1737616686&s=books&sprefix=ddd+disille%2Cstripbooks%2C68&sr=1-1&ufe=app_do%3Aamzn1.fos.95fd378e-6299-4723-b1f1-3952ffba15af)
 - [Domain driven design](https://www.amazon.co.uk/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_1?crid=21JBVDOBL1JRE&dib=eyJ2IjoiMSJ9.Lo7-Md3VvIV38Rzn-ytmnWB1gdph7SOcGi2QiFqOVZ1dy04lVC1YASEeDJ1cUQZnlfUfprRmmKfAFZG42k2QTJTh7MUKUtZQBHNZzK9sAxwK6wnN7gyjcfDa1vB5_pyLytSctkBm7PJpbg9jL1TDKI3I7JiXppcvlNbYKkuwEdLy16hjrm5S1uFmnKNfvkuYs2TvxrvMO1bE1n1BMnTKQyu_PYBxqDInvLA-R0_MLzI.VhemrlC6z4speiE02K08MQaqqODF4-CDsC1WHEELKPQ&dib_tag=se&keywords=ddd&nsdOptOutParam=true&qid=1737616709&s=books&sprefix=dadd%2Cstripbooks%2C64&sr=1-1&ufe=app_do%3Aamzn1.fos.95fd378e-6299-4723-b1f1-3952ffba15af)
 
+## Useful Links
+
+- https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution
+
+- https://medium.com/nick-tune-tech-strategy-blog/turning-domain-discovery-into-product-and-organizational-improvements-with-a-ddd-exemplar-9e759c365a9e
+
+- https://www.thoughtworks.com/en-gb/insights/blog/architecture/domain-driven-design-in-functional-programming
+
+- https://www.infoq.com/articles/architecture-modernization-domain-driven-discovery/
+
+- https://leanpub.com/visualcollaborationtools
+
+
 ## Want more?
 
 Want to learn more, I have a [few more talks on my website](https://www.boyney.io/talks) that can help you dive into EDA.
