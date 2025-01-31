@@ -16,6 +16,7 @@ _Here you can find resources for the talk "Navigating complexity in event-driven
   - Inconsistent conventions includes YOLO events, exposing implementation details in events and lack of standards within your architecture
   - Lack of event design means we couple our architecture through the contracts themself, we have request coupling and no version strategy.
 - The warning signs and accidental complexity come into most EDA architectures I have seen, being aware of it can help, but how can you avoid it? Maybe DDD can help?
+- [Talk from Peter Van Hardenberg on complexity and software (high recommened)](https://www.youtube.com/watch?v=czzAVuVz7u4)
 
 ## Part 2: How can DDD help us avoid complexity?
 
