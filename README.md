@@ -29,6 +29,7 @@ _Here you can find resources for the talk "Navigating complexity in event-driven
 
 
 ## Part 3: Open source and specifications to help
+- [EventCatalog](https://www.eventcatalog.dev/) - Tool I'm working on full time to help you manage complexity, come join the fun!
 - DDD crew have a collection of [great GitHub repos to help you out](https://github.com/ddd-crew).
 - Chris Simon has some interesting ideas and tools, thoughts around Ubiquitous language with [contextive](https://github.com/dev-cycles/contextive)
 - There are a bunch of open specifications that can help you
